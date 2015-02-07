@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+.eclipse
+.buildpath
+.idea
+.eclipse
+index_boot.html
+index_emberjs.html
+.project
+.settings
