@@ -1,9 +1,11 @@
-starter-kit
-===========
+Ember 1.9.1 && BootStrap 3.3.2 Fixed Top Navbar Starter Kit
+==========
 
-A starter kit for Ember
+######(Made on Feb, Saturday the 7th, 2015) 
 
-Your Ember.js project is almost ready! Here's how to get started:
+
+####This is just a starter kit for Ember with BootStrap included. 
+####It has the regular Ember.js Starter kit which included:
 
 - Start writing your app in `js/app.js`.
 
@@ -15,6 +17,14 @@ Your Ember.js project is almost ready! Here's how to get started:
 - Add CSS to `css/style.css`.
 
 - Open `index.html` in your browser.
+
+####It also includes the Fixed TOP Navigation Bar from Bootstrap:
+  
+  - bootrap
+  - theme
+  
+#### Just out of the box to keep doing a simple website, that 
+#### has EmberJS. So, perhaps it could be a starting point for an app.   
 
 Tests
 =====
@@ -34,3 +44,6 @@ Contact
 ====
 
 [www.emberjs.com](http://www.emberjs.com)
+[www.getbootstrap.com](http://getbootstrap.com)
+
+
